@@ -4,6 +4,47 @@
         "companyname":"Google",
         "image":"https://play-lh.googleusercontent.com/1-hPxafOxdYpYZEOKzNIkSP43HXCNftVJVttoo4ucl7rsMASXW3Xr6GlXURCubE1tA=w3840-h2160-rw",
         "work":"Data Base Development",
-        "started":"3 days ago"
+        "started":"3 days ago",
+        "jobcatogery":"Parttime"
+    },
+    {
+        "id":2,
+        "companyname":"Infosys",
+        "image":"https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1415386231/utypaslbyxwfuwhfdzxd.png",
+        "work":"Sr.Associate/Specialist",
+        "started":"5 days ago",
+        "jobcatogery":"Fulltime"   
+    },
+    {
+        "id":3,
+        "companyname":"Microsoft",
+        "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOvnVyeMo22zO48NlNNPFHR4pKvCODEEKiAw&usqp=CAU",
+        "work":"MIS Executive",
+        "started":"2 days ago",
+        "jobcatogery":"Fulltime"   
+    },
+    {
+        "id":4,
+        "companyname":"Amazon",
+        "image":"https://i.pinimg.com/originals/d7/25/2a/d7252a71a8943948bb9f438aa6fcd6bf.jpg",
+        "work":"Database Administrator",
+        "started":"10 days ago",
+        "jobcatogery":"Fulltime"    
+    },
+    {
+        "id":5,
+        "companyname":"Oracle",
+        "image":"https://1000logos.net/wp-content/uploads/2021/04/Oracle-logo.png",
+        "work":"Database Developer",
+        "started":"7 days ago",
+        "jobcatogery":"Parttime"  
+    },
+    {
+        "id":6,
+        "companyname":"Apple",
+        "image":"https://1000logos.net/wp-content/uploads/2016/10/Apple-Logo.png",
+        "work":"Designer",
+        "started":"8 days ago",
+        "jobcatogery":"Parttime" 
     }
 ]
